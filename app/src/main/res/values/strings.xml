@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodRecipeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Favorite</string>
+    <string name="recipes">Recipes</string>
+    <string name="todo">todo</string>
+    <string name="no_int">No Internet Connection</string>
+    <string name="_1">1</string>
+</resources>
